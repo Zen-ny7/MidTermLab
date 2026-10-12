@@ -1,0 +1,14 @@
+C:\Users\Client\OneDrive\Desktop\DATA STRUCTURE ALG\EberoInegoDanberS\bin\Debug\net10.0\EberoInegoDanberS..exe
+C:\Users\Client\OneDrive\Desktop\DATA STRUCTURE ALG\EberoInegoDanberS\bin\Debug\net10.0\EberoInegoDanberS..deps.json
+C:\Users\Client\OneDrive\Desktop\DATA STRUCTURE ALG\EberoInegoDanberS\bin\Debug\net10.0\EberoInegoDanberS..runtimeconfig.json
+C:\Users\Client\OneDrive\Desktop\DATA STRUCTURE ALG\EberoInegoDanberS\bin\Debug\net10.0\EberoInegoDanberS..dll
+C:\Users\Client\OneDrive\Desktop\DATA STRUCTURE ALG\EberoInegoDanberS\bin\Debug\net10.0\EberoInegoDanberS..pdb
+C:\Users\Client\OneDrive\Desktop\DATA STRUCTURE ALG\EberoInegoDanberS\obj\Debug\net10.0\EberoInegoDanberS..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Client\OneDrive\Desktop\DATA STRUCTURE ALG\EberoInegoDanberS\obj\Debug\net10.0\EberoInegoDanberS..AssemblyInfoInputs.cache
+C:\Users\Client\OneDrive\Desktop\DATA STRUCTURE ALG\EberoInegoDanberS\obj\Debug\net10.0\EberoInegoDanberS..AssemblyInfo.cs
+C:\Users\Client\OneDrive\Desktop\DATA STRUCTURE ALG\EberoInegoDanberS\obj\Debug\net10.0\EberoInegoDanberS..csproj.CoreCompileInputs.cache
+C:\Users\Client\OneDrive\Desktop\DATA STRUCTURE ALG\EberoInegoDanberS\obj\Debug\net10.0\EberoInegoDanberS..dll
+C:\Users\Client\OneDrive\Desktop\DATA STRUCTURE ALG\EberoInegoDanberS\obj\Debug\net10.0\refint\EberoInegoDanberS..dll
+C:\Users\Client\OneDrive\Desktop\DATA STRUCTURE ALG\EberoInegoDanberS\obj\Debug\net10.0\EberoInegoDanberS..pdb
+C:\Users\Client\OneDrive\Desktop\DATA STRUCTURE ALG\EberoInegoDanberS\obj\Debug\net10.0\EberoInegoDanberS..genruntimeconfig.cache
+C:\Users\Client\OneDrive\Desktop\DATA STRUCTURE ALG\EberoInegoDanberS\obj\Debug\net10.0\ref\EberoInegoDanberS..dll
